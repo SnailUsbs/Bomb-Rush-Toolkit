@@ -7,9 +7,17 @@ ______________________________
 
 # FEATURES
 
-**- Custom Grafiti:** Allows you to easily make custom graffiti for bomb rush of any size, any spray pattern, and any name through a simple GUI. Beyond just making new custom graffiti, you can also delete, backup, and restore any of the custom graffiti you already have.
+**- Custom Grafiti:** Allows you to easily make custom graffiti for bomb rush of any size, any spray pattern, and any name through a simple GUI.
+
+![](https://github.com/SnailUsbs/Bomb-Rush-Toolkit/blob/main/Images/MakeGraffiti.png)
+
+Beyond just making new custom graffiti, you can also delete, backup, and restore any of the custom graffiti you already have.
+
+![](https://github.com/SnailUsbs/Bomb-Rush-Toolkit/blob/main/Images/ManageGraffiti.png)
 
 **- ACN Tools:** Allows you to easily make & set your All City Network's username's text and color through the use of a color wheel.
+
+![](https://github.com/SnailUsbs/Bomb-Rush-Toolkit/blob/main/Images/R2profileManager.png)
 
 **- R2 Tools:** Allows you easily Backup, delete, and restore any of your R2modman profiles, alongside showing you the following infomation:
 > - Profile Size
@@ -18,7 +26,11 @@ ______________________________
 > - Amount of CrewBoom characters
 > - Amount of Config Files
 
+![](https://github.com/SnailUsbs/Bomb-Rush-Toolkit/blob/main/Images/R2profileManager.png)
+
 **- Mapstation Edtior Setup:** While's mapstation's own setup in their editor package appears to only work on windows, really all its doing is copying over a file from your bomb rush folder, into your mapstation editor folder, but **they automated this with a windows only (.cmd) file**. So this tool will **work on both windows and linux**
+
+![](https://github.com/SnailUsbs/Bomb-Rush-Toolkit/blob/main/Images/MapstationSetupTool.png)
 
 ---
 
