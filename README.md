@@ -10,7 +10,6 @@ ______________________________
 **- Custom Graffiti:** Allows you to easily make custom graffiti for bomb rush of any size, any spray pattern, and any name through a simple GUI.
 
 ![](https://github.com/SnailUsbs/Bomb-Rush-Toolkit/blob/main/Images/MakeGraffiti.png)
-![](https://github.com/SnailUsbs/Bomb-Rush-Toolkit/blob/main/Images/CustomSprayPattern.png)
 
 Beyond just making new custom graffiti, you can also delete, backup, and restore any of the custom graffiti you already have.
 
