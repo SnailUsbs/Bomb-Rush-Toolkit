@@ -17,7 +17,7 @@ Beyond just making new custom graffiti, you can also delete, backup, and restore
 
 **- ACN Tools:** Allows you to easily make & set your All City Network's username's text and color through the use of a color wheel.
 
-![](https://github.com/SnailUsbs/Bomb-Rush-Toolkit/blob/main/Images/R2profileManager.png)
+![](https://github.com/SnailUsbs/Bomb-Rush-Toolkit/blob/main/Images/ACNUsernameTool.png)
 
 **- R2 Tools:** Allows you easily Backup, delete, and restore any of your R2modman profiles, alongside showing you the following infomation:
 > - Profile Size
