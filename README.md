@@ -28,8 +28,10 @@ ______________________________
 - CrewBoom Manager
 - Newtrix Manager
 - Emote Manager
+- Custom Music Manager
 - Unity bee_backend fix
 - Save File Manager
+- Bomb Rush Community Center (Discord Servers / Youtube Channels)
 
 ______________________________
 
