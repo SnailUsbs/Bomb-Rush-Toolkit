@@ -53,4 +53,10 @@ ______________________________
 - Made in Godot 4.5 / gdscript
 - Native builds for *both* **Windows** & **Linux**
 
+______________________________
+
+# CREDIT
+- City block model used in the title screen: https://sketchfab.com/3d-models/bomb-rush-cyberfunk-street-fan-art-f473445525d34a08acf4ab756a745ae3
+
+
 
