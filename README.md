@@ -75,5 +75,7 @@ ______________________________
 - Made in Godot 4.5 / gdscript
 - Native builds for *both* **Windows** & **Linux**
 
+- The crewboom tool works fine, however the code for the system is a mess and will be refactored in the next update. While you are free to try and tweak now in it's currents state, id wait till v1.2. If you are a just user using the program, then you wont notice any change when this refactor happens, its just allow it to be easily edited in the future by anyone.
+
 
 
