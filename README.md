@@ -13,8 +13,6 @@ ______________________________
 
 **- Crew Boom Tool:** This tool will allow you to install custom CrewBoom characters into your game, and your ACN folder, with the click of a button. You can either give it *a folder full of characters* , or *a single file*, making it perfect for take over events and quickly trying out new characters.
 
-![](https://github.com/SnailUsbs/Bomb-Rush-Toolkit/blob/main/Images/CrewBoomTool.png)
-
 You are also able to delete, backup, restore any character with the manage characters section of this tool:
 
 ![](https://github.com/SnailUsbs/Bomb-Rush-Toolkit/blob/main/Images/ManageCrewBoom.png)
