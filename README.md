@@ -5,7 +5,7 @@ BR toolkit is an all-in-one solution to doing and automating various tasks in Bo
 The goal here is to eliminate the barriers between new players who want to get into the game, but don't have the technical knowledge to do so. Which is why BR Toolkit is open source, and made in an open source editor, allowing anyone to tweak this as needed in the future.
 
 
-![](https://github.com/SnailUsbs/Bomb-Rush-Toolkit/blob/main/Images/BRToolkitShowcase.png)
+![](https://github.com/SnailUsbs/Bomb-Rush-Toolkit/blob/main/Images/TitleScreen.png)
 
 ______________________________
 
