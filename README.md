@@ -1,4 +1,4 @@
-# BR Toolkit v1.0
+# BR Toolkit v1.1
 
 BR toolkit is an all-in-one solution to doing and automating various tasks in Bomb Rush Cyberfunk. There's also native ports for both windows and linux thanks to it being made in godot, meaning no matter what you are on, steam deck included, this toolkit will work for you.
 
@@ -11,6 +11,16 @@ ______________________________
 
 # FEATURES
 
+**- Crew Boom Tool:** This tool will allow you to install custom CrewBoom characters into your game, and your ACN folder, with the click of a button. You can either give it *a folder full of characters** , or *a single file*, making it perfect for take over events and quickly trying out new characters.
+
+![](https://github.com/SnailUsbs/Bomb-Rush-Toolkit/blob/main/Images/CrewBoomTool.png)
+
+You are also able to delete, backup, restore any character with the manage characters section of this tool:
+
+![](https://github.com/SnailUsbs/Bomb-Rush-Toolkit/blob/main/Images/ManageCrewBoom.png)
+
+--
+
 **- Custom Graffiti:** Allows you to easily make custom graffiti for bomb rush of any size, any spray pattern, and any name through a simple GUI.
 
 ![](https://github.com/SnailUsbs/Bomb-Rush-Toolkit/blob/main/Images/MakeGraffiti.png)
@@ -19,9 +29,13 @@ Beyond just making new custom graffiti, you can also delete, backup, and restore
 
 ![](https://github.com/SnailUsbs/Bomb-Rush-Toolkit/blob/main/Images/ManageGraffiti.png)
 
+--
+
 **- ACN Tools:** Allows you to easily make & set your All City Network's username's text and color through the use of a color wheel.
 
 ![](https://github.com/SnailUsbs/Bomb-Rush-Toolkit/blob/main/Images/ACNUsernameTool.png)
+
+--
 
 **- R2 Tools:** Allows you easily Backup, delete, and restore any of your R2modman profiles, alongside showing you the following information:
 > - Profile Size
@@ -32,11 +46,14 @@ Beyond just making new custom graffiti, you can also delete, backup, and restore
 
 ![](https://github.com/SnailUsbs/Bomb-Rush-Toolkit/blob/main/Images/R2profileManager.png)
 
+--
+
 **- Mapstation Edtior Setup:** While mapstation's own setup in their editor package appears to only work on windows, really all its doing is copying over a file from your bomb rush folder, into your mapstation editor folder, but **they automated this with a windows only (.cmd) file**. So this tool will **work on both windows and linux**
 
 ![](https://github.com/SnailUsbs/Bomb-Rush-Toolkit/blob/main/Images/MapstationSetupTool.png)
 
----
+
+______________________________
 
 # FUTURE FEATURES:
 
