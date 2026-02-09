@@ -1,5 +1,7 @@
 # BR Toolkit v1.1
 
+## IMPORTANT: Tool currently only works 100% on linux. Only the All city network tool works on window
+
 BR toolkit is an all-in-one solution to doing and automating various tasks in Bomb Rush Cyberfunk. There's also native ports for both windows and linux thanks to it being made in godot, meaning no matter what you are on, steam deck included, this toolkit will work for you.
 
 The goal here is to eliminate the barriers between new players who want to get into the game, but don't have the technical knowledge to do so. Which is why BR Toolkit is open source, and made in an open source editor, allowing anyone to tweak this as needed in the future.
